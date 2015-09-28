@@ -1,6 +1,6 @@
 {
     "name": "PanoPla",
-    "description": "PanoPla is an easy way to build and share virtual tours, google cardboard content, and spherical panos. Explore and create, share, and play.",
+    "description": "PanoPla is an easy way to build and share virtual tours, google cardboard content, and spherical panos.",
     "app": {
         "urls": ["http://panopla.com/"],
         "launch": {
