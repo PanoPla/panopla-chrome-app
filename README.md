@@ -8,6 +8,8 @@ PanoPla is a CMS for creating and sharing virtual reality and virtual tour conte
 
 Install the plugin using the plugin manager or download from the Chrome Web Store, click the icon and enjoy PanoPla.
 
+Find it on the Chrome Web Store
+<a href="https://chrome.google.com/webstore/detail/panopla/hbbjopogkbippgachpflbajmgjmhkobb"><img src="assets/cws.png" alt="cws" /></a>
 
 ## Editing
 
